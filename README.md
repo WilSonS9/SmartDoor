@@ -1,5 +1,7 @@
 # SmartDoor.md
 
+This is the repository for the Smart Door project at ABB-Gymnasiet. The purpose of this project is to control a lock for a door with face detection. In this project, we decided to have the door recognize Joe's face and unlock the door when he is seen. If no one is seen, or someone other than Joel is seen, the door will be locked
+
 **Table of Contents**
 
 - [SmartDoor.md](#smartdoormd)
