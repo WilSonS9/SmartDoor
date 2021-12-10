@@ -4,7 +4,7 @@
 <img width="565" alt="image" src="https://user-images.githubusercontent.com/54657589/145534193-b66ee4db-8080-4c91-923e-e4ce8aba51d6.png">
 
 ## Source for lock info
-https://www.ebay.com/itm/254421303433?hash=item3b3cb10089:g:0wwAAOSww5ZdzWt5
+https://www.ebay.com/itm/254421303433?hash=item3b3cb10089:g:0wwAAOSww5ZdzWt5 most info needed can easily be found on this web page so it is a recommended read if you want to use the lock.
 
 ## Needed hardware:
 * node mcu * 1
@@ -21,5 +21,3 @@ The lock works by producing magnetism by electricity which then causes the lock 
 ## Problems
 Figuring what the different wires of the lock did until I found the source above in the source subchapter. Replacing the relay with a diode and transistor and lastly connecting 
 the right pins to what was written in the code since the code had different pin numbers than the node mcu for the same pin.
-
-
